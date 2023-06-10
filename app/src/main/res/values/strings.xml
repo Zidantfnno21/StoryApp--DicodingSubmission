@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="label_app_detail">Detail Story</string>
+    <string name="label_app_add">Make New</string>
+
+    <string name="logout">Log Out</string>
+    <string name="hello">Hello</string>
+    <string name="please_login">Please Login</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="masukkan_email" translatable="false">Input Email</string>
+    <string name="masukkan_username" translatable="false">Input Username</string>
+    <string name="masukkan_password" translatable="false">Input Password</string>
+    <string name="login"> Login</string>
+    <string name="belum_punya_akun">Make New Account? </string>
+    <string name="register"> Register</string>
+    <string name="email">Email</string>
+    <string name="sudah_punya_akun">Already Have Account? </string>
+    <string name="welcome">Welcome</string>
+    <string name="register_first">Register First</string>
+    <string name="dummy">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="add_story">Add Story</string>
+    <string name="masukkan_deskripsi" translatable="false">Input Description</string>
+    <string name="description">Description</string>
+    <string name="picture_preview">Picture Preview</string>
+    <string name="add_picture">Add Picture</string>
+    <string name="alert_logout">Are You Sure?</string>
+    <string name="flip" translatable="false">Flip</string>
+    <string name="capture" translatable="false">Capture</string>
+    <string name="message_permission">Camera Permissions Rejected</string>
+    <string name="message_failed_captured">Failed Getting Picture</string>
+    <string name="message_failed_camera">Failed to Open Camera</string>
+    <string name="message_form_alert">Please Fill All Form</string>
+    <string name="message_failed_login">Oops, it looks like there was an issue with your login. Please Try Again</string>
+    <string name="message_fetch_list">Failed to fetch data</string>
+    <string name="message_success_register">Register Successfully, Please Login</string>
+    <string name="message_failed_register">We\'re sorry, your registration was not successful.</string>
+    <string name="open_maps" translatable="false">Open Maps</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="allow_location">Add Location</string>
+    <string name="toast_error_userlocation">Oops, Location not found, Please Try Again</string>
+    <string name="required_permission">Location Permission Required</string>
+    <string name="required_permission_message">Before using this feature, you must turn on the location permission. Do you want to turn it on now?</string>
+    <string name="alert_dialog_yes">Yes</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="alert_dialog_optionkamera">Take a picture</string>
+    <string name="alert_dialog_opengaleri">Choose from gallery</string>
+    <string name="alert_dialog_selectoption">Select Option</string>
+    <string name="toast_picture_empty">Please add picture first</string>
+</resources>

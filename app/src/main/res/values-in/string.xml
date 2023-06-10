@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="label_app_detail">Detail Story</string>
+    <string name="label_app_add">Buat Baru</string>
+
+    <string name="logout">Keluar</string>
+    <string name="hello">Halo</string>
+    <string name="please_login">Silahkan Login</string>
+    <string name="login">" Masuk"</string>
+    <string name="belum_punya_akun">Buat Akun Baru?</string>
+    <string name="register">" Daftar"</string>
+    <string name="email">Email</string>
+    <string name="sudah_punya_akun">Sudah Punya Akun?</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="register_first">Silahkan Mendaftar</string>
+    <string name="dummy">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="description">Deskripsi</string>
+    <string name="picture_preview">Picture Preview</string>
+    <string name="add_picture">Tambah Foto</string>
+    <string name="alert_logout">Anda Yakin?</string>
+    <string name="message_permission">Tidak Mendapatkan Permissions</string>
+    <string name="message_failed_captured">Gagal Mendapatkan Gambar</string>
+    <string name="message_failed_camera">Gagal Menjalankan Kamera</string>
+    <string name="message_form_alert">Tolong Isi Seluruh Form</string>
+    <string name="message_failed_login">Maaf, login Anda gagal. Silakan Coba Lagi</string>
+    <string name="message_fetch_list">Gagal Mengambil Data</string>
+    <string name="message_success_register">Berhasil Mendaftar, Silahkan Login</string>
+    <string name="message_failed_register">Maaf, pendaftaran Anda tidak berhasil.</string>
+    <string name="allow_location">Tambah Lokasi</string>
+    <string name="toast_error_userlocation">Ups, Lokasi tidak ditemukan, Silakan Coba Lagi</string>
+    <string name="required_permission">Izin Lokasi Diperlukan</string>
+    <string name="required_permission_message">Sebelum menggunakan fitur ini, Anda harus mengaktifkan izin lokasi. Ingin mengaktifkannya sekarang?</string>
+    <string name="alert_dialog_yes">Iya</string>
+    <string name="alert_dialog_cancel">Batal</string>
+    <string name="alert_dialog_optionkamera">Ambil gambar</string>
+    <string name="alert_dialog_opengaleri">Pilih dari galeri</string>
+    <string name="alert_dialog_selectoption">Pilih Opsi</string>
+    <string name="toast_picture_empty">Tambahkan gambar terlebih dahulu</string>
+</resources>

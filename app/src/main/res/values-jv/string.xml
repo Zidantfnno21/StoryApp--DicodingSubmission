@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="label_app_detail">Detail Story</string>
+    <string name="label_app_add">Gawe Anyar</string>
+
+    <string name="logout">Metu</string>
+    <string name="hello">Halo</string>
+    <string name="please_login">Monggo Login</string>
+    <string name="login">" Mlebet"</string>
+    <string name="belum_punya_akun">Nggawe Akun Anyar?</string>
+    <string name="register">" Ndhaftar"</string>
+    <string name="email">Email</string>
+    <string name="sudah_punya_akun">Sampun Damel Akun?</string>
+    <string name="welcome">Sugeng Rawuh</string>
+    <string name="register_first">"Ndhaftar Dhisik "</string>
+    <string name="dummy">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="description">Dekripsi</string>
+    <string name="picture_preview">Picture Preview</string>
+    <string name="add_picture">Tambah Foto</string>
+    <string name="alert_logout">Sampeyan Yakin?</string>
+    <string name="message_permission">Ora Entok Permissions</string>
+    <string name="message_failed_captured">Gagal Njupuk Gambar</string>
+    <string name="message_failed_camera">Gagal Mbukak Kamera</string>
+    <string name="message_form_alert">Monggo Ngisi Form Disek</string>
+    <string name="message_failed_login">Nuwun sewu, login sampeyan gagal. Mangga dicobi maleh.</string>
+    <string name="message_fetch_list">Gagal njupuk data</string>
+    <string name="message_success_register">Ndhaptar Kanthi Sukses, Mangga Mlebu</string>
+    <string name="message_failed_register">Nuwun sewu, registrasi sampeyan ora kasil.</string>
+    <string name="allow_location">Nambah Lokasi</string>
+    <string name="toast_error_userlocation">Waduh, Lokasi ora ditemokake, Coba maneh</string>
+    <string name="required_permission">Ijin Lokasi Dibutuhake</string>
+    <string name="required_permission_message">Sadurunge nggunakake fitur iki, sampeyan kudu nguripake ijin lokasi. Apa sampeyan pengin nguripake saiki?</string>
+    <string name="alert_dialog_yes">Nggih</string>
+    <string name="alert_dialog_cancel">Gasido</string>
+    <string name="alert_dialog_optionkamera">Njupuk gambar</string>
+    <string name="alert_dialog_opengaleri">Pilih saka galeri</string>
+    <string name="alert_dialog_selectoption">Miliho</string>
+    <string name="toast_picture_empty">Mangga nambah gambar riyen</string>
+</resources>
